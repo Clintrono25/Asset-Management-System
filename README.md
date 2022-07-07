@@ -15,4 +15,5 @@ assigned to them. It should also show the expected date and time of return. On t
 returned, the employee returning the item should be able to be cleared and the records updated automatically. All this
 saves the whole process of manually keeping and managing the records of devices and employees.
 
-[url=https://postimg.cc/V0r35vk4][img]https://i.postimg.cc/V0r35vk4/screenshot-1.png[/img][/url]
+[url=https://postimg.cc/V0r35vk4]
+https://i.postimg.cc/V0r35vk4/screenshot-1.png[/img
