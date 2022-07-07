@@ -15,9 +15,9 @@ assigned to them. It should also show the expected date and time of return. On t
 returned, the employee returning the item should be able to be cleared and the records updated automatically. All this
 saves the whole process of manually keeping and managing the records of devices and employees.
 
-(https://user-images.githubusercontent.com/19890188/177863545-3e175443-7b0b-4a51-826d-b69183f6c4d7.PNG)
-(https://user-images.githubusercontent.com/19890188/177863563-0cfc037a-c1ac-462d-9273-8e910773cb53.PNG)
-(https://user-images.githubusercontent.com/19890188/177863569-63d1d439-d42b-40b7-af55-f832d782b7a6.PNG)
-(https://user-images.githubusercontent.com/19890188/177863572-2de86f9b-347a-4043-9063-ce62320f4416.PNG)
-(https://user-images.githubusercontent.com/19890188/177863579-8e968aa0-c648-42b7-9a5d-7d1ad714ea52.PNG)
+https://user-images.githubusercontent.com/19890188/177863545-3e175443-7b0b-4a51-826d-b69183f6c4d7.PNG
+https://user-images.githubusercontent.com/19890188/177863563-0cfc037a-c1ac-462d-9273-8e910773cb53.PNG
+https://user-images.githubusercontent.com/19890188/177863569-63d1d439-d42b-40b7-af55-f832d782b7a6.PNG
+https://user-images.githubusercontent.com/19890188/177863572-2de86f9b-347a-4043-9063-ce62320f4416.PNG
+https://user-images.githubusercontent.com/19890188/177863579-8e968aa0-c648-42b7-9a5d-7d1ad714ea52.PNG
 
